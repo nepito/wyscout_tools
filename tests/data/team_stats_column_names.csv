@@ -1,0 +1,110 @@
+column_names
+Date
+Match
+Competition
+Duration
+Team
+Scheme
+Goals
+xG
+Shots
+Shots_on_target
+Shots_on_target_percentage
+Passes
+Passes_accurate
+Passes_accurate_percentage
+"Possession, %"
+Losses
+Losses_Low
+Losses_Medium
+Losses_High
+Recoveries
+Recoveries_Low
+Recoveries_Medium
+Recoveries_High
+Duels
+Duels_won
+Duels_won_percentage
+Shots_from_outside_penalty_area
+Shots_from_outside_penalty_area_on_target
+Shots_from_outside_penalty_area_on_target_percentage
+Positional_attacks
+Positional_attacks_with_shots
+Positional_attacks_with_shots_percentage
+Counterattacks
+Counterattacks_with_shots
+Counterattacks_with_shots_percentage
+Set_pieces
+Set_pieces_with_shots
+Set_pieces_with_shots_percentage
+Corners
+Corners_with_shots
+Corners_with_shots_percentage
+Free_kicks
+Free_kicks_with_shots
+Free_kicks_with_shots_percentage
+Penalties
+Penalties_converted
+Penalties_converted_percentage
+Crosses
+Crosses_accurate
+Crosses_accurate_percentage
+Deep completed crosses
+Deep completed passes
+Penalty_area_entries
+Penalty_area_entries_runs
+Penalty_area_entries_crosses
+Touches in penalty area
+Offensive_duels
+Offensive_duels_won
+Offensive_duels_won_percentage
+Offsides
+Conceded goals
+Shots_against
+Shots_against_on_target
+Shots_against_on_target_percentage
+Defensive_duels
+Defensive_duels_won
+Defensive_duels_won_percentage
+Aerial_duels
+Aerial_duels_won
+Aerial_duels_won_percentage
+Sliding_tackles
+Sliding_tackles_successful
+Sliding_tackles_successful_percentage
+Interceptions
+Clearances
+Fouls
+Yellow cards
+Red cards
+Forward_passes
+Forward_passes_accurate
+Forward_passes_accurate_percentage
+Back_passes
+Back_passes_accurate
+Back_passes_accurate_percentage
+Lateral_passes
+Lateral_passes_accurate
+Lateral_passes_accurate_percentage
+Long_passes
+Long_passes_accurate
+Long_passes_accurate_percentage
+Passes_to_final_third
+Passes_to_final_third_accurate
+Passes_to_final_third_accurate_percentage
+Progressive_passes
+Progressive_passes_accurate
+Progressive_passes_accurate_percentage
+Smart_passes
+Smart_passes_accurate
+Smart_passes_accurate_percentage
+Throw_ins
+Throw_ins_accurate
+Throw_ins_accurate_percentage
+Goal kicks
+Match tempo
+Average passes per possession
+Long pass %
+Average shot distance
+Average pass length
+PPDA

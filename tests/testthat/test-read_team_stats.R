@@ -8,6 +8,6 @@ describe("read data with the right names", {
   it("skips the name row", {
     chelsea <- read_team_stats("/workdir/tests/data/Chelsea.csv")
     expect_equal(chelsea$Date[1], "Chelsea")
-    expect_equal(chelsea$Date[2], "Oppponent")
+    expect_equal(chelsea$Date[2], "Opponents")
   })
 })

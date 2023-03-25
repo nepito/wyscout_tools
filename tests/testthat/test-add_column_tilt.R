@@ -1,3 +1,5 @@
+library(tidyverse)
+
 describe("add_tilt", {
   raw_data <- tibble(
     Date = rep(c("a", "b", "c"), 2),

@@ -14,7 +14,7 @@ describe("obtain_passes_to_final_third_of_two_teams_by_match", {
   )
   expected <- tibble(
     Date = c("a", "b", "c"),
-    Passes_to_final_third_accurate = c(4, 6, 9)
+    total_passes_to_final_third = c(5, 7, 9)
   )
   obtained <- obtain_passes_to_final_third_of_two_teams_by_match(raw_data)
   expect_equal(obtained, expected)

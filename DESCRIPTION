@@ -10,9 +10,8 @@ Config/testthat/edition: 3
 Description: Tools to work with data from Wyscout
 Encoding: UTF-8
 Imports:
+    dplyr,
     readr,
-    R6,
-    tidyverse
 LazyData: true
 License: AGPL-3.0-or-later
 Roxygen: list(markdown = TRUE)
